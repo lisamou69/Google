@@ -1,0 +1,145 @@
+div {
+  text-align: center;
+}
+#contenu {
+    height: 85vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    height: 20px;
+    border-radius: 43px;
+}
+
+a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+
+footer {
+    background-color: #f2f2f2;
+    text-align: auto;
+    text-decoration: none;
+    color: gray;
+    height: 70px
+        
+}
+
+svg {
+    height: 20px;
+}
+
+#feuille{
+    height: 15px
+}
+
+.rounded {
+    border-radius: 50%;
+}
+
+#ligne1 {
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#ligne2 {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;  
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+
+header{
+    text-align: right;
+    background-color: white
+}
+
+button{
+    height: 40px;
+    width: 150px;
+    border-radius: 4px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 30px;
+    margin-top: auto;
+    border: 0px;
+    color: black;
+    font-family: sans-serif;
+    font: 14px;
+}
+
+#col1 {
+    text-decoration: none;
+    color: lightgray;
+    justify-content: space-evenly;
+    display: flex;
+ text-decoration:none; 
+}
+
+.footerelement {
+    padding-right: 30px;
+    font-family: sans-serif;
+    font: 14px;
+}
+.footerelement2 {
+        padding-right: 30px;
+    font-family: sans-serif;
+    font: 14px;
+}
+.footerelement3 {
+        padding-right: 30px;
+    font-family: sans-serif;
+    font: 14px;
+}
+.footerelement4 {
+        padding-right: 30px;
+    font-family: sans-serif;
+    font: 14px;
+}
+.footerelement5 {
+        padding-right: 30px;
+    font-family: sans-serif;
+    font: 14px;
+}
+.footerelement6 {
+        padding-right: 30px;
+    font-family: sans-serif;
+    font: 14px;
+}
+.footerelement7 {
+        padding-right: 30px;
+    font-family: sans-serif;
+    font: 14px;
+}
+.footerelement8 {
+        padding-right: 30px;
+    font-family: sans-serif;
+    font: 14px;
+}
+.footerelement9 {
+        padding-right: 30px;
+    font-family: sans-serif;
+    font: 14px;
+}
+
+a {
+    color: gray;
+    text-decoration: none
+}
+
+body {
+    font-family: sans-serif;
+    font: 14px;
+}
